@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Streamlit
+.streamlit/secrets.toml
+
+# 엑셀 파일
+*.xlsx
+*.xlsm
+*.xls
+~$*.xlsx
+~$*.xlsm
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 배포 관련
+*.bat
+실행.bat
+exe로_만들기.bat
+streamlit_실행.bat
+사용설명서.txt
+streamlit_사용설명서.txt
